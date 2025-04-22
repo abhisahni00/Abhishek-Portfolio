@@ -171,7 +171,7 @@ export default function Home() {
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   <Badge variant="outline">Logistic Regression</Badge>
-                  <Badge variant="outline">Classification</Badge>
+                  <Badge variant="outline">Naive Bayes</Badge>
                   <Badge variant="outline">EDA</Badge>
                 </div>
                 <div className="flex justify-between">
@@ -252,7 +252,7 @@ export default function Home() {
                   classification, achieving 93% accuracy.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  <Badge variant="outline">Random Forest</Badge>
+                <Badge variant="outline">Random Forest</Badge>
                   <Badge variant="outline">Feature Selection</Badge>
                   <Badge variant="outline">Python</Badge>
                 </div>
@@ -291,7 +291,7 @@ export default function Home() {
                   and preparation.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  <Badge variant="outline">Random Forest</Badge>
+                  
                   <Badge variant="outline">Feature Selection</Badge>
                   <Badge variant="outline">Python</Badge>
                 </div>

@@ -86,7 +86,7 @@ export default function Home() {
                 asChild
               >
                 <a href="https://drive.google.com/file/d/1Tn7lf839XgPkxe-a_e7_bh54_ORxH9wD/view?usp=drive_link" download>
-                  Download Resume
+                  Download CV
                 </a>
               </Button>
             </div>
@@ -213,6 +213,7 @@ export default function Home() {
                 <div className="flex flex-wrap gap-2 mb-4">
                   <Badge variant="outline">NLP</Badge>
                   <Badge variant="outline">TF-IDF</Badge>
+                  <Badge variant="outline">Logistic Regression</Badge>
                   <Badge variant="outline">Naive Bayes</Badge>
                 </div>
                 <div className="flex justify-between">

@@ -94,7 +94,7 @@ export default function Home() {
           <div className="md:w-2/5 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-lg">
               <Image
-                src="/photo.jpg?height=320&width=320"
+                src="/Image1.png?height=320&width=320"
                 alt="Abhishek Sahni"
                 fill
                 className="object-cover"
